@@ -5,6 +5,7 @@ Repositório com um conjunto de projetos em React feitos como parte de um plano 
 ## Projetos simples
 
 - currency-converter
+- image-editor
 
 ## Projetos medianos
 
