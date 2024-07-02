@@ -9,6 +9,7 @@ Repositório com um conjunto de projetos em React feitos como parte de um plano 
 - calculator
 - navbar
 - pokemon-api
+- code-editor
 
 ## Projetos medianos
 
