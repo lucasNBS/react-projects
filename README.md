@@ -10,6 +10,7 @@ Repositório com um conjunto de projetos em React feitos como parte de um plano 
 - navbar
 - pokemon-api
 - code-editor
+- infinite-scroll
 
 ## Projetos medianos
 
