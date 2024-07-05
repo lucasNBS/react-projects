@@ -11,6 +11,7 @@ Repositório com um conjunto de projetos em React feitos como parte de um plano 
 - pokemon-api
 - code-editor
 - infinite-scroll
+- flashcards
 
 ## Projetos medianos
 
